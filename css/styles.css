@@ -1,0 +1,41 @@
+body{
+    background-color: lightgray;
+}
+
+h1{
+    font-size: 4rem;
+    text-align: center;
+    line-height: 1.5;
+    padding: 5% 0 10%;
+    
+}
+
+h3{
+    text-align: center;
+    padding: 5%;
+    font-size: 2rem;
+}
+
+#main{
+    text-align: center;
+}
+
+.fight{
+    height: 90px;
+}
+
+.info{
+    padding: 10%;
+}
+
+
+
+.superhero-won{
+    color: white;
+    background-color: lightgreen;
+}
+
+.superhero-lost{
+    color: #000;
+    background-color: red;
+}
